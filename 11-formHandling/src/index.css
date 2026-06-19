@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+}
+
+html,
+body {
+  background: #000;
+  height: 100%;
+  width: 100%;
+  color: #fff;
+}
+
+form {
+  margin: 8px;
+  
+}
+
+form input, button {
+  width: 20rem;
+  padding: 10px 7px;
+  background-color: transparent;
+  border: none;
+  color: wheat;
+
+}
+
+form input:active {
+  border: none;
+}
+button{
+  background-color: navy;
+}
